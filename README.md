@@ -1,2 +1,18 @@
-# redteam-roadmap
-Aspiring Red Team / Penetration Testing enthusiast focused on CTF-based learning, web exploitation, and building ethical security tools. Documenting my hands-on journey through write-ups, labs, and Python-based Red Team tooling.
+# Red Team Learning Journey (90 Days)
+
+This repository documents my structured 90-day Red Team learning path focused on CTF skills, web application security, and offensive security fundamentals.
+
+## Objectives
+- Build strong CTF problem-solving skills
+- Understand real-world web vulnerabilities
+- Develop small Red Team tools using Python
+- Create clear, professional technical write-ups
+
+## Practice Ethics
+- All activities are performed on legal labs and CTF platforms
+- No unauthorised testing on real-world systems
+- Focus on learning and responsible disclosure
+
+## Outcome
+This repository represents my hands-on preparation for entry-level Red Team / Penetration Tester roles.
+
