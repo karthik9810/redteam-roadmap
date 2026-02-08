@@ -1,4 +1,4 @@
-# Red Team Learning Journey (90 DAYS)
+# Red Team Learning Journey (90 days )
 
 This repository documents my structured 90-day Red Team learning path focused on CTF skills, web application security, and offensive security fundamentals.
 
