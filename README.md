@@ -16,5 +16,4 @@ This repository documents my structured 90-day Red Team learning path focused on
 ## Outcome
 This repository represents my hands-on preparation for entry-level Red Team / Penetration Tester roles.
 
-Day 1 how to website working  
-
+Day 1 how to website worKING 
